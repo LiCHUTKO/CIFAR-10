@@ -36,7 +36,8 @@ Ten projekt demonstruje klasyfikację obrazów z użyciem sieci neuronowej typu 
 ## Struktura projektu 📂
 ├── notebook.ipynb 
 ├── README.md  
-└── requirements.txt
+└── requirements.txt 
+
 
 
 ## Opis notebooka 📓
